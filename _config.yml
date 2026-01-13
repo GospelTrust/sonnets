@@ -1,8 +1,5 @@
 theme: askclass-course-theme
 
-plugins:
-  - jekyll-remote-theme
-
 title: "Shakespeare Sonnets"
 description: >
   Dive into Shakespeare's 154 timeless sonnets with our dedicated study and memorization platform.
