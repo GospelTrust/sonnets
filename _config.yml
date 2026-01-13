@@ -1,0 +1,78 @@
+#remote_theme: beAuthentic/askclass-course-theme
+theme: askclass-course-theme
+
+title: "Shakespeare Sonnets"
+description: >
+  Dive into Shakespeare's 154 timeless sonnets with our dedicated study and memorization platform.
+  Explore line-by-line analyses, thematic groupings,
+  famous quotes like \"Shall I compare thee to a summer's day?\", tools for deep reading,
+  and proven techniques to memorize these masterpieces of love, time, and beauty.
+  Perfect for students, educators, actors, and poetry lovers seeking to master the Bard's profound verse.
+
+acc:
+  date_format: "%b %d, %y"
+  short_name: "Sonnets"
+  color:
+    theme: "#ffd700"
+    bg: "#222"
+  url: "https://sonnets.nissi.app"
+  categories:
+    - education
+  logo:
+    image: "logo.svg"
+    size: 70
+    height: 70
+    alt_image: "logo.svg"
+    alt_size: 200
+    sizes: [ 48, 96, 144, 192, 300, 512, 800, 1024 ]
+  shortcuts:
+    - name: Introduction
+      url: https://sonnets.nissi.app/session/intro
+      desc: Introduction to Shakespeare's Sonnets
+  meta:
+    apple_icon: "logo-square-300.png"
+    og_image: "logo-square-512.png"
+    shortcut:
+      favicon: "favicon.ico"
+      type: "image/png"
+      image: "logo-96.png"
+    keywords: >
+      education,
+      learning,
+      psychology
+  footer:
+    - icon: "lightbulb"
+      href: "/session/intro"
+      text: "Introduction"
+  font_families:
+    - Teko
+    - Open+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,700
+    - Josefin+Sans
+    - Share+Tech+Mono
+    - Lexend
+    - Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200
+
+collections_dir: content
+collections:
+  session:
+    output: true
+  segment:
+    output: true
+
+defaults:
+  - scope:
+      path: "*.html"
+    values:
+      layout: "default"
+  - scope:
+      type: "session"
+    values:
+      layout: "session"
+  - scope:
+      type: "segment"
+    values:
+      layout: "segment"
+
+exclude:
+  - CNAME
+  - material

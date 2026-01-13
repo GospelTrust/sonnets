@@ -1,0 +1,1239 @@
+intro:
+  type: 'Introduction'
+  header: 'Introduction'
+  segment: 'group-00'
+  title: 'Shakespeare 154 Sonnets'
+  icon: info
+  url: 'intro'
+
+sonnet-1:
+  header: 'Sonnet 1'
+  segment: 'group-01'
+  title: "From fairest creatures we desire increase"
+  icon: web_stories
+  sequence: 1
+  url: 'sonnet-1'
+
+sonnet-2:
+  header: 'Sonnet 2'
+  segment: 'group-01'
+  title: "When forty winters shall besiege thy brow"
+  icon: web_stories
+  sequence: 2
+  url: 'sonnet-2'
+
+sonnet-3:
+  header: 'Sonnet 3'
+  segment: 'group-01'
+  title: "Look in thy glass and tell the face thou viewest"
+  icon: web_stories
+  sequence: 3
+  url: 'sonnet-3'
+
+sonnet-4:
+  header: 'Sonnet 4'
+  segment: 'group-01'
+  title: "Unthrifty loveliness, why dost thou spend"
+  icon: web_stories
+  sequence: 4
+  url: 'sonnet-4'
+
+sonnet-5:
+  header: 'Sonnet 5'
+  segment: 'group-01'
+  title: "Those hours that with gentle work did frame"
+  icon: web_stories
+  sequence: 5
+  url: 'sonnet-5'
+
+sonnet-6:
+  header: 'Sonnet 6'
+  segment: 'group-01'
+  title: "Then let not winter's ragged hand deface"
+  icon: web_stories
+  sequence: 6
+  url: 'sonnet-6'
+
+sonnet-7:
+  header: 'Sonnet 7'
+  segment: 'group-01'
+  title: "Lo! in the orient when the gracious light"
+  icon: web_stories
+  sequence: 7
+  url: 'sonnet-7'
+
+sonnet-8:
+  header: 'Sonnet 8'
+  segment: 'group-01'
+  title: "Music to hear, why hear'st thou music sadly?"
+  icon: web_stories
+  sequence: 8
+  url: 'sonnet-8'
+
+sonnet-9:
+  header: 'Sonnet 9'
+  segment: 'group-01'
+  title: "Is it for fear to wet a widow's eye"
+  icon: web_stories
+  sequence: 9
+  url: 'sonnet-9'
+
+sonnet-10:
+  header: 'Sonnet 10'
+  segment: 'group-01'
+  title: "For shame deny that thou bear'st love to any"
+  icon: web_stories
+  sequence: 10
+  url: 'sonnet-10'
+
+sonnet-11:
+  header: 'Sonnet 11'
+  segment: 'group-01'
+  title: "As fast as thou shalt wane, so fast thou grow'st"
+  icon: web_stories
+  sequence: 11
+  url: 'sonnet-11'
+
+sonnet-12:
+  header: 'Sonnet 12'
+  segment: 'group-01'
+  title: "When I do count the clock that tells the time"
+  icon: web_stories
+  sequence: 12
+  url: 'sonnet-12'
+
+sonnet-13:
+  header: 'Sonnet 13'
+  segment: 'group-01'
+  title: "O! that you were yourself; but, love, you are"
+  icon: web_stories
+  sequence: 13
+  url: 'sonnet-13'
+
+sonnet-14:
+  header: 'Sonnet 14'
+  segment: 'group-01'
+  title: "Not from the stars do I my judgement pluck"
+  icon: web_stories
+  sequence: 14
+  url: 'sonnet-14'
+
+sonnet-15:
+  header: 'Sonnet 15'
+  segment: 'group-01'
+  title: "When I consider every thing that grows"
+  icon: web_stories
+  sequence: 15
+  url: 'sonnet-15'
+
+sonnet-16:
+  header: 'Sonnet 16'
+  segment: 'group-01'
+  title: "But wherefore do not you a mightier way"
+  icon: web_stories
+  sequence: 16
+  url: 'sonnet-16'
+
+sonnet-17:
+  header: 'Sonnet 17'
+  segment: 'group-01'
+  title: "Who will believe my verse in time to come"
+  icon: web_stories
+  sequence: 17
+  url: 'sonnet-17'
+
+sonnet-18:
+  header: 'Sonnet 18'
+  segment: 'group-02'
+  title: "Shall I compare thee to a summer's day"
+  icon: favorite
+  sequence: 18
+  url: 'sonnet-18'
+
+sonnet-19:
+  header: 'Sonnet 19'
+  segment: 'group-02'
+  title: "Devouring Time, blunt thou the lion's paws"
+  icon: web_stories
+  sequence: 19
+  url: 'sonnet-19'
+
+sonnet-20:
+  header: 'Sonnet 20'
+  segment: 'group-02'
+  title: "A woman's face with nature's own hand painted"
+  icon: web_stories
+  sequence: 20
+  url: 'sonnet-20'
+
+sonnet-21:
+  header: 'Sonnet 21'
+  segment: 'group-02'
+  title: "So is it not with me as with that Muse"
+  icon: web_stories
+  sequence: 21
+  url: 'sonnet-21'
+
+sonnet-22:
+  header: 'Sonnet 22'
+  segment: 'group-02'
+  title: "My glass shall not persuade me I am old"
+  icon: web_stories
+  sequence: 22
+  url: 'sonnet-22'
+
+sonnet-23:
+  header: 'Sonnet 23'
+  segment: 'group-02'
+  title: "As an unperfect actor on the stage"
+  icon: web_stories
+  sequence: 23
+  url: 'sonnet-23'
+
+sonnet-24:
+  header: 'Sonnet 24'
+  segment: 'group-02'
+  title: "Mine eye hath played the painter and hath steeled"
+  icon: web_stories
+  sequence: 24
+  url: 'sonnet-24'
+
+sonnet-25:
+  header: 'Sonnet 25'
+  segment: 'group-02'
+  title: "Let those who are in favour with their stars"
+  icon: web_stories
+  sequence: 25
+  url: 'sonnet-25'
+
+sonnet-26:
+  header: 'Sonnet 26'
+  segment: 'group-02'
+  title: "Lord of my love, to whom in vassalage"
+  icon: web_stories
+  sequence: 26
+  url: 'sonnet-26'
+
+sonnet-27:
+  header: 'Sonnet 27'
+  segment: 'group-02'
+  title: "Weary with toil, I haste me to my bed"
+  icon: web_stories
+  sequence: 27
+  url: 'sonnet-27'
+
+sonnet-28:
+  header: 'Sonnet 28'
+  segment: 'group-03'
+  title: "How can I then return in happy plight"
+  icon: web_stories
+  sequence: 28
+  url: 'sonnet-28'
+
+sonnet-29:
+  header: 'Sonnet 29'
+  segment: 'group-03'
+  title: "When in disgrace with fortune and men's eyes"
+  icon: favorite
+  sequence: 29
+  url: 'sonnet-29'
+
+sonnet-30:
+  header: 'Sonnet 30'
+  segment: 'group-03'
+  title: "When to the sessions of sweet silent thought"
+  icon: favorite
+  sequence: 30
+  url: 'sonnet-30'
+
+sonnet-31:
+  header: 'Sonnet 31'
+  segment: 'group-03'
+  title: "Thy bosom is endeared with all hearts"
+  icon: web_stories
+  sequence: 31
+  url: 'sonnet-31'
+
+sonnet-32:
+  header: 'Sonnet 32'
+  segment: 'group-03'
+  title: "If thou survive my well-contented day"
+  icon: web_stories
+  sequence: 32
+  url: 'sonnet-32'
+
+sonnet-33:
+  header: 'Sonnet 33'
+  segment: 'group-03'
+  title: "Full many a glorious morning have I seen"
+  icon: web_stories
+  sequence: 33
+  url: 'sonnet-33'
+
+sonnet-34:
+  header: 'Sonnet 34'
+  segment: 'group-03'
+  title: "Why didst thou promise such a beauteous day"
+  icon: web_stories
+  sequence: 34
+  url: 'sonnet-34'
+
+sonnet-35:
+  header: 'Sonnet 35'
+  segment: 'group-03'
+  title: "No more be grieved at that which thou hast done"
+  icon: web_stories
+  sequence: 35
+  url: 'sonnet-35'
+
+sonnet-36:
+  header: 'Sonnet 36'
+  segment: 'group-03'
+  title: "Let me confess that we two must be twain"
+  icon: web_stories
+  sequence: 36
+  url: 'sonnet-36'
+
+sonnet-37:
+  header: 'Sonnet 37'
+  segment: 'group-03'
+  title: "As a decrepit father takes delight"
+  icon: web_stories
+  sequence: 37
+  url: 'sonnet-37'
+
+sonnet-38:
+  header: 'Sonnet 38'
+  segment: 'group-03'
+  title: "How can my muse want subject to invent"
+  icon: web_stories
+  sequence: 38
+  url: 'sonnet-38'
+
+sonnet-39:
+  header: 'Sonnet 39'
+  segment: 'group-03'
+  title: "O! how thy worth with manners may I sing"
+  icon: web_stories
+  sequence: 39
+  url: 'sonnet-39'
+
+sonnet-40:
+  header: 'Sonnet 40'
+  segment: 'group-04'
+  title: "Take all my loves, my love, yea take them all"
+  icon: web_stories
+  sequence: 40
+  url: 'sonnet-40'
+
+sonnet-41:
+  header: 'Sonnet 41'
+  segment: 'group-04'
+  title: "Those pretty wrongs that liberty commits"
+  icon: web_stories
+  sequence: 41
+  url: 'sonnet-41'
+
+sonnet-42:
+  header: 'Sonnet 42'
+  segment: 'group-04'
+  title: "That thou hast her it is not all my grief"
+  icon: web_stories
+  sequence: 42
+  url: 'sonnet-42'
+
+sonnet-43:
+  header: 'Sonnet 43'
+  segment: 'group-04'
+  title: "When most I wink, then do mine eyes best see"
+  icon: web_stories
+  sequence: 43
+  url: 'sonnet-43'
+
+sonnet-44:
+  header: 'Sonnet 44'
+  segment: 'group-04'
+  title: "If the dull substance of my flesh were thought"
+  icon: web_stories
+  sequence: 44
+  url: 'sonnet-44'
+
+sonnet-45:
+  header: 'Sonnet 45'
+  segment: 'group-04'
+  title: "The other two, slight air and purging fire"
+  icon: web_stories
+  sequence: 45
+  url: 'sonnet-45'
+
+sonnet-46:
+  header: 'Sonnet 46'
+  segment: 'group-04'
+  title: "Mine eye and heart are at a mortal war"
+  icon: web_stories
+  sequence: 46
+  url: 'sonnet-46'
+
+sonnet-47:
+  header: 'Sonnet 47'
+  segment: 'group-04'
+  title: "Betwixt mine eye and heart a league is took"
+  icon: web_stories
+  sequence: 47
+  url: 'sonnet-47'
+
+sonnet-48:
+  header: 'Sonnet 48'
+  segment: 'group-04'
+  title: "How careful was I when I took my way"
+  icon: web_stories
+  sequence: 48
+  url: 'sonnet-48'
+
+sonnet-49:
+  header: 'Sonnet 49'
+  segment: 'group-04'
+  title: "Against that time, if ever that time come"
+  icon: web_stories
+  sequence: 49
+  url: 'sonnet-49'
+
+sonnet-50:
+  header: 'Sonnet 50'
+  segment: 'group-04'
+  title: "How heavy do I journey on the way"
+  icon: web_stories
+  sequence: 50
+  url: 'sonnet-50'
+
+sonnet-51:
+  header: 'Sonnet 51'
+  segment: 'group-04'
+  title: "Thus can my love excuse the slow offence"
+  icon: web_stories
+  sequence: 51
+  url: 'sonnet-51'
+
+sonnet-52:
+  header: 'Sonnet 52'
+  segment: 'group-04'
+  title: "So am I as the rich, whose blessed key"
+  icon: web_stories
+  sequence: 52
+  url: 'sonnet-52'
+
+sonnet-53:
+  header: 'Sonnet 53'
+  segment: 'group-04'
+  title: "What is your substance, whereof are you made"
+  icon: web_stories
+  sequence: 53
+  url: 'sonnet-53'
+
+sonnet-54:
+  header: 'Sonnet 54'
+  segment: 'group-04'
+  title: "O! how much more doth beauty beauteous seem"
+  icon: web_stories
+  sequence: 54
+  url: 'sonnet-54'
+
+sonnet-55:
+  header: 'Sonnet 55'
+  segment: 'group-05'
+  title: "Not marble, nor the gilded monuments"
+  icon: favorite
+  sequence: 55
+  url: 'sonnet-55'
+
+sonnet-56:
+  header: 'Sonnet 56'
+  segment: 'group-05'
+  title: "Sweet love, renew thy force; be it not said"
+  icon: web_stories
+  sequence: 56
+  url: 'sonnet-56'
+
+sonnet-57:
+  header: 'Sonnet 57'
+  segment: 'group-05'
+  title: "Being your slave what should I do but tend"
+  icon: web_stories
+  sequence: 57
+  url: 'sonnet-57'
+
+sonnet-58:
+  header: 'Sonnet 58'
+  segment: 'group-05'
+  title: "That god forbid, that made me first your slave"
+  icon: web_stories
+  sequence: 58
+  url: 'sonnet-58'
+
+sonnet-59:
+  header: 'Sonnet 59'
+  segment: 'group-05'
+  title: "If there be nothing new, but that which is"
+  icon: web_stories
+  sequence: 59
+  url: 'sonnet-59'
+
+sonnet-60:
+  header: 'Sonnet 60'
+  segment: 'group-05'
+  title: "Like as the waves make towards the pebbled shore"
+  icon: favorite
+  sequence: 60
+  url: 'sonnet-60'
+
+sonnet-61:
+  header: 'Sonnet 61'
+  segment: 'group-05'
+  title: "Is it thy will, thy image should keep open"
+  icon: web_stories
+  sequence: 61
+  url: 'sonnet-61'
+
+sonnet-62:
+  header: 'Sonnet 62'
+  segment: 'group-05'
+  title: "Sin of self-love possesseth all mine eye"
+  icon: web_stories
+  sequence: 62
+  url: 'sonnet-62'
+
+sonnet-63:
+  header: 'Sonnet 63'
+  segment: 'group-05'
+  title: "Against my love shall be as I am now"
+  icon: web_stories
+  sequence: 63
+  url: 'sonnet-63'
+
+sonnet-64:
+  header: 'Sonnet 64'
+  segment: 'group-05'
+  title: "When I have seen by Time's fell hand defaced"
+  icon: favorite
+  sequence: 64
+  url: 'sonnet-64'
+
+sonnet-65:
+  header: 'Sonnet 65'
+  segment: 'group-05'
+  title: "Since brass, nor stone, nor earth, nor boundless sea"
+  icon: favorite
+  sequence: 65
+  url: 'sonnet-65'
+
+sonnet-66:
+  header: 'Sonnet 66'
+  segment: 'group-05'
+  title: "Tired with all these, for restful death I cry"
+  icon: web_stories
+  sequence: 66
+  url: 'sonnet-66'
+
+sonnet-67:
+  header: 'Sonnet 67'
+  segment: 'group-05'
+  title: "Ah! wherefore with infection should he live"
+  icon: web_stories
+  sequence: 67
+  url: 'sonnet-67'
+
+sonnet-68:
+  header: 'Sonnet 68'
+  segment: 'group-05'
+  title: "Thus is his cheek the map of days outworn"
+  icon: web_stories
+  sequence: 68
+  url: 'sonnet-68'
+
+sonnet-69:
+  header: 'Sonnet 69'
+  segment: 'group-05'
+  title: "Those parts of thee that the world's eye doth view"
+  icon: web_stories
+  sequence: 69
+  url: 'sonnet-69'
+
+sonnet-70:
+  header: 'Sonnet 70'
+  segment: 'group-06'
+  title: "That thou art blamed shall not be thy defect"
+  icon: web_stories
+  sequence: 70
+  url: 'sonnet-70'
+
+sonnet-71:
+  header: 'Sonnet 71'
+  segment: 'group-06'
+  title: "No longer mourn for me when I am dead"
+  icon: favorite
+  sequence: 71
+  url: 'sonnet-71'
+
+sonnet-72:
+  header: 'Sonnet 72'
+  segment: 'group-06'
+  title: "O! lest the world should task you to recite"
+  icon: web_stories
+  sequence: 72
+  url: 'sonnet-72'
+
+sonnet-73:
+  header: 'Sonnet 73'
+  segment: 'group-06'
+  title: "That time of year thou mayst in me behold"
+  icon: favorite
+  sequence: 73
+  url: 'sonnet-73'
+
+sonnet-74:
+  header: 'Sonnet 74'
+  segment: 'group-06'
+  title: "But be contented when that fell arrest"
+  icon: web_stories
+  sequence: 74
+  url: 'sonnet-74'
+
+sonnet-75:
+  header: 'Sonnet 75'
+  segment: 'group-06'
+  title: "So are you to my thoughts as food to life"
+  icon: web_stories
+  sequence: 75
+  url: 'sonnet-75'
+
+sonnet-76:
+  header: 'Sonnet 76'
+  segment: 'group-06'
+  title: "Why is my verse so barren of new pride"
+  icon: web_stories
+  sequence: 76
+  url: 'sonnet-76'
+
+sonnet-77:
+  header: 'Sonnet 77'
+  segment: 'group-06'
+  title: "Thy glass will show thee how thy beauties wear"
+  icon: web_stories
+  sequence: 77
+  url: 'sonnet-77'
+
+sonnet-78:
+  header: 'Sonnet 78'
+  segment: 'group-06'
+  title: "So oft have I invoked thee for my Muse"
+  icon: web_stories
+  sequence: 78
+  url: 'sonnet-78'
+
+sonnet-79:
+  header: 'Sonnet 79'
+  segment: 'group-06'
+  title: "Whilst I alone did call upon thy aid"
+  icon: web_stories
+  sequence: 79
+  url: 'sonnet-79'
+
+sonnet-80:
+  header: 'Sonnet 80'
+  segment: 'group-06'
+  title: "O! how I faint when I of you do write"
+  icon: web_stories
+  sequence: 80
+  url: 'sonnet-80'
+
+sonnet-81:
+  header: 'Sonnet 81'
+  segment: 'group-06'
+  title: "Or I shall live your epitaph to make"
+  icon: web_stories
+  sequence: 81
+  url: 'sonnet-81'
+
+sonnet-82:
+  header: 'Sonnet 82'
+  segment: 'group-06'
+  title: "I grant thou wert not married to my Muse"
+  icon: web_stories
+  sequence: 82
+  url: 'sonnet-82'
+
+sonnet-83:
+  header: 'Sonnet 83'
+  segment: 'group-06'
+  title: "I never saw that you did painting need"
+  icon: web_stories
+  sequence: 83
+  url: 'sonnet-83'
+
+sonnet-84:
+  header: 'Sonnet 84'
+  segment: 'group-06'
+  title: "Who is it that says most, which can say more"
+  icon: web_stories
+  sequence: 84
+  url: 'sonnet-84'
+
+sonnet-85:
+  header: 'Sonnet 85'
+  segment: 'group-06'
+  title: "My tongue-tied Muse in manners holds her still"
+  icon: web_stories
+  sequence: 85
+  url: 'sonnet-85'
+
+sonnet-86:
+  header: 'Sonnet 86'
+  segment: 'group-06'
+  title: "Was it the proud full sail of his great verse"
+  icon: web_stories
+  sequence: 86
+  url: 'sonnet-86'
+
+sonnet-87:
+  header: 'Sonnet 87'
+  segment: 'group-06'
+  title: "Farewell! thou art too dear for my possessing"
+  icon: web_stories
+  sequence: 87
+  url: 'sonnet-87'
+
+sonnet-88:
+  header: 'Sonnet 88'
+  segment: 'group-07'
+  title: "When thou shalt be disposed to set me light"
+  icon: web_stories
+  sequence: 88
+  url: 'sonnet-88'
+
+sonnet-89:
+  header: 'Sonnet 89'
+  segment: 'group-07'
+  title: "Say that thou didst forsake me for some fault"
+  icon: web_stories
+  sequence: 89
+  url: 'sonnet-89'
+
+sonnet-90:
+  header: 'Sonnet 90'
+  segment: 'group-07'
+  title: "Then hate me when thou wilt; if ever, now"
+  icon: web_stories
+  sequence: 90
+  url: 'sonnet-90'
+
+sonnet-91:
+  header: 'Sonnet 91'
+  segment: 'group-07'
+  title: "Some glory in their birth, some in their skill"
+  icon: web_stories
+  sequence: 91
+  url: 'sonnet-91'
+
+sonnet-92:
+  header: 'Sonnet 92'
+  segment: 'group-07'
+  title: "But do thy worst to steal thyself away"
+  icon: web_stories
+  sequence: 92
+  url: 'sonnet-92'
+
+sonnet-93:
+  header: 'Sonnet 93'
+  segment: 'group-07'
+  title: "So shall I live, supposing thou art true"
+  icon: web_stories
+  sequence: 93
+  url: 'sonnet-93'
+
+sonnet-94:
+  header: 'Sonnet 94'
+  segment: 'group-07'
+  title: "They that have power to hurt, and will do none"
+  icon: web_stories
+  sequence: 94
+  url: 'sonnet-94'
+
+sonnet-95:
+  header: 'Sonnet 95'
+  segment: 'group-07'
+  title: "How sweet and lovely dost thou make the shame"
+  icon: web_stories
+  sequence: 95
+  url: 'sonnet-95'
+
+sonnet-96:
+  header: 'Sonnet 96'
+  segment: 'group-07'
+  title: "Some say thy fault is youth, some wantonness"
+  icon: web_stories
+  sequence: 96
+  url: 'sonnet-96'
+
+sonnet-97:
+  header: 'Sonnet 97'
+  segment: 'group-07'
+  title: "How like a winter hath my absence been"
+  icon: web_stories
+  sequence: 97
+  url: 'sonnet-97'
+
+sonnet-98:
+  header: 'Sonnet 98'
+  segment: 'group-07'
+  title: "From you have I been absent in the spring"
+  icon: web_stories
+  sequence: 98
+  url: 'sonnet-98'
+
+sonnet-99:
+  header: 'Sonnet 99'
+  segment: 'group-07'
+  title: "The forward violet thus did I chide"
+  icon: bookmark
+  sequence: 99
+  url: 'sonnet-99'
+
+sonnet-100:
+  header: 'Sonnet 100'
+  segment: 'group-08'
+  title: "Where art thou Muse that thou forget'st so long"
+  icon: web_stories
+  sequence: 100
+  url: 'sonnet-100'
+
+sonnet-101:
+  header: 'Sonnet 101'
+  segment: 'group-08'
+  title: "O truant Muse what shall be thy amends"
+  icon: web_stories
+  sequence: 101
+  url: 'sonnet-101'
+
+sonnet-102:
+  header: 'Sonnet 102'
+  segment: 'group-08'
+  title: "My love is strengthened, though more weak in seeming"
+  icon: web_stories
+  sequence: 102
+  url: 'sonnet-102'
+
+sonnet-103:
+  header: 'Sonnet 103'
+  segment: 'group-08'
+  title: "Alack! what poverty my Muse brings forth"
+  icon: web_stories
+  sequence: 103
+  url: 'sonnet-103'
+
+sonnet-104:
+  header: 'Sonnet 104'
+  segment: 'group-08'
+  title: "To me, fair friend, you never can be old"
+  icon: web_stories
+  sequence: 104
+  url: 'sonnet-104'
+
+sonnet-105:
+  header: 'Sonnet 105'
+  segment: 'group-08'
+  title: "Let not my love be called idolatry"
+  icon: web_stories
+  sequence: 105
+  url: 'sonnet-105'
+
+sonnet-106:
+  header: 'Sonnet 106'
+  segment: 'group-08'
+  title: "When in the chronicle of wasted time"
+  icon: web_stories
+  sequence: 106
+  url: 'sonnet-106'
+
+sonnet-107:
+  header: 'Sonnet 107'
+  segment: 'group-08'
+  title: "Not mine own fears, nor the prophetic soul"
+  icon: web_stories
+  sequence: 107
+  url: 'sonnet-107'
+
+sonnet-108:
+  header: 'Sonnet 108'
+  segment: 'group-08'
+  title: "What's in the brain that ink may character"
+  icon: web_stories
+  sequence: 108
+  url: 'sonnet-108'
+
+sonnet-109:
+  header: 'Sonnet 109'
+  segment: 'group-08'
+  title: "O! never say that I was false of heart"
+  icon: web_stories
+  sequence: 109
+  url: 'sonnet-109'
+
+sonnet-110:
+  header: 'Sonnet 110'
+  segment: 'group-08'
+  title: "Alas! 'tis true, I have gone here and there"
+  icon: web_stories
+  sequence: 110
+  url: 'sonnet-110'
+
+sonnet-111:
+  header: 'Sonnet 111'
+  segment: 'group-08'
+  title: "O! for my sake do you with Fortune chide"
+  icon: web_stories
+  sequence: 111
+  url: 'sonnet-111'
+
+sonnet-112:
+  header: 'Sonnet 112'
+  segment: 'group-08'
+  title: "Your love and pity doth the impression fill"
+  icon: web_stories
+  sequence: 112
+  url: 'sonnet-112'
+
+sonnet-113:
+  header: 'Sonnet 113'
+  segment: 'group-09'
+  title: "Since I left you, mine eye is in my mind"
+  icon: web_stories
+  sequence: 113
+  url: 'sonnet-113'
+
+sonnet-114:
+  header: 'Sonnet 114'
+  segment: 'group-09'
+  title: "Or whether doth my mind, being crowned with you"
+  icon: web_stories
+  sequence: 114
+  url: 'sonnet-114'
+
+sonnet-115:
+  header: 'Sonnet 115'
+  segment: 'group-09'
+  title: "Those lines that I before have writ do lie"
+  icon: web_stories
+  sequence: 115
+  url: 'sonnet-115'
+
+sonnet-116:
+  header: 'Sonnet 116'
+  segment: 'group-09'
+  title: "Let me not to the marriage of true minds"
+  icon: favorite
+  sequence: 116
+  url: 'sonnet-116'
+
+sonnet-117:
+  header: 'Sonnet 117'
+  segment: 'group-09'
+  title: "Accuse me thus: that I have scanted all"
+  icon: web_stories
+  sequence: 117
+  url: 'sonnet-117'
+
+sonnet-118:
+  header: 'Sonnet 118'
+  segment: 'group-09'
+  title: "Like as, to make our appetites more keen"
+  icon: web_stories
+  sequence: 118
+  url: 'sonnet-118'
+
+sonnet-119:
+  header: 'Sonnet 119'
+  segment: 'group-09'
+  title: "What potions have I drunk of Siren tears"
+  icon: web_stories
+  sequence: 119
+  url: 'sonnet-119'
+
+sonnet-120:
+  header: 'Sonnet 120'
+  segment: 'group-09'
+  title: "That you were once unkind befriends me now"
+  icon: web_stories
+  sequence: 120
+  url: 'sonnet-120'
+
+sonnet-121:
+  header: 'Sonnet 121'
+  segment: 'group-09'
+  title: "'Tis better to be vile than vile esteemed"
+  icon: web_stories
+  sequence: 121
+  url: 'sonnet-121'
+
+sonnet-122:
+  header: 'Sonnet 122'
+  segment: 'group-09'
+  title: "Thy gift, thy tables, are within my brain"
+  icon: web_stories
+  sequence: 122
+  url: 'sonnet-122'
+
+sonnet-123:
+  header: 'Sonnet 123'
+  segment: 'group-09'
+  title: "No, Time, thou shalt not boast that I do change"
+  icon: web_stories
+  sequence: 123
+  url: 'sonnet-123'
+
+sonnet-124:
+  header: 'Sonnet 124'
+  segment: 'group-09'
+  title: "If my dear love were but the child of state"
+  icon: web_stories
+  sequence: 124
+  url: 'sonnet-124'
+
+sonnet-125:
+  header: 'Sonnet 125'
+  segment: 'group-09'
+  title: "Were't aught to me I bore the canopy"
+  icon: web_stories
+  sequence: 125
+  url: 'sonnet-125'
+
+sonnet-126:
+  header: 'Sonnet 126'
+  segment: 'group-09'
+  title: "O thou, my lovely boy, who in thy power"
+  icon: bookmark
+  sequence: 126
+  url: 'sonnet-126'
+
+sonnet-127:
+  header: 'Sonnet 127'
+  segment: 'group-10'
+  title: "In the old age black was not counted fair"
+  icon: web_stories
+  sequence: 127
+  url: 'sonnet-127'
+
+sonnet-128:
+  header: 'Sonnet 128'
+  segment: 'group-10'
+  title: "How oft when thou, my music, music play'st"
+  icon: web_stories
+  sequence: 128
+  url: 'sonnet-128'
+
+sonnet-129:
+  header: 'Sonnet 129'
+  segment: 'group-11'
+  title: "The expense of spirit in a waste of shame"
+  icon: web_stories
+  sequence: 129
+  url: 'sonnet-129'
+
+sonnet-130:
+  header: 'Sonnet 130'
+  segment: 'group-11'
+  title: "My mistress' eyes are nothing like the sun"
+  icon: favorite
+  sequence: 130
+  url: 'sonnet-130'
+
+sonnet-131:
+  header: 'Sonnet 131'
+  segment: 'group-11'
+  title: "Thou art as tyrannous, so as thou art"
+  icon: web_stories
+  sequence: 131
+  url: 'sonnet-131'
+
+sonnet-132:
+  header: 'Sonnet 132'
+  segment: 'group-11'
+  title: "Thine eyes I love, and they, as pitying me"
+  icon: web_stories
+  sequence: 132
+  url: 'sonnet-132'
+
+sonnet-133:
+  header: 'Sonnet 133'
+  segment: 'group-11'
+  title: "Beshrew that heart that makes my heart to groan"
+  icon: web_stories
+  sequence: 133
+  url: 'sonnet-133'
+
+sonnet-134:
+  header: 'Sonnet 134'
+  segment: 'group-11'
+  title: "So now I have confessed that he is thine"
+  icon: web_stories
+  sequence: 134
+  url: 'sonnet-134'
+
+sonnet-135:
+  header: 'Sonnet 135'
+  segment: 'group-11'
+  title: "Whoever hath her wish, thou hast thy Will"
+  icon: web_stories
+  sequence: 135
+  url: 'sonnet-135'
+
+sonnet-136:
+  header: 'Sonnet 136'
+  segment: 'group-11'
+  title: "If thy soul check thee that I come so near"
+  icon: web_stories
+  sequence: 136
+  url: 'sonnet-136'
+
+sonnet-137:
+  header: 'Sonnet 137'
+  segment: 'group-11'
+  title: "Thou blind fool, Love, what dost thou to mine eyes"
+  icon: web_stories
+  sequence: 137
+  url: 'sonnet-137'
+
+sonnet-138:
+  header: 'Sonnet 138'
+  segment: 'group-11'
+  title: "When my love swears that she is made of truth"
+  icon: favorite
+  sequence: 138
+  url: 'sonnet-138'
+
+sonnet-139:
+  header: 'Sonnet 139'
+  segment: 'group-11'
+  title: "O! call not me to justify the wrong"
+  icon: web_stories
+  sequence: 139
+  url: 'sonnet-139'
+
+sonnet-140:
+  header: 'Sonnet 140'
+  segment: 'group-11'
+  title: "Be wise as thou art cruel; do not press"
+  icon: web_stories
+  sequence: 140
+  url: 'sonnet-140'
+
+sonnet-141:
+  header: 'Sonnet 141'
+  segment: 'group-11'
+  title: "In faith I do not love thee with mine eyes"
+  icon: web_stories
+  sequence: 141
+  url: 'sonnet-141'
+
+sonnet-142:
+  header: 'Sonnet 142'
+  segment: 'group-11'
+  title: "Love is my sin, and thy dear virtue hate"
+  icon: web_stories
+  sequence: 142
+  url: 'sonnet-142'
+
+sonnet-143:
+  header: 'Sonnet 143'
+  segment: 'group-11'
+  title: "Lo, as a careful housewife runs to catch"
+  icon: web_stories
+  sequence: 143
+  url: 'sonnet-143'
+
+sonnet-144:
+  header: 'Sonnet 144'
+  segment: 'group-11'
+  title: "Two loves I have of comfort and despair"
+  icon: web_stories
+  sequence: 144
+  url: 'sonnet-144'
+
+sonnet-145:
+  header: 'Sonnet 145'
+  segment: 'group-11'
+  title: "Those lips that Love's own hand did make"
+  icon: web_stories
+  sequence: 145
+  url: 'sonnet-145'
+
+sonnet-146:
+  header: 'Sonnet 146'
+  segment: 'group-11'
+  title: "Poor soul, the centre of my sinful earth"
+  icon: web_stories
+  sequence: 146
+  url: 'sonnet-146'
+
+sonnet-147:
+  header: 'Sonnet 147'
+  segment: 'group-11'
+  title: "My love is as a fever longing still"
+  icon: web_stories
+  sequence: 147
+  url: 'sonnet-147'
+
+sonnet-148:
+  header: 'Sonnet 148'
+  segment: 'group-11'
+  title: "O me! what eyes hath Love put in my head"
+  icon: web_stories
+  sequence: 148
+  url: 'sonnet-148'
+
+sonnet-149:
+  header: 'Sonnet 149'
+  segment: 'group-11'
+  title: "Canst thou, O cruel! say I love thee not"
+  icon: web_stories
+  sequence: 149
+  url: 'sonnet-149'
+
+sonnet-150:
+  header: 'Sonnet 150'
+  segment: 'group-11'
+  title: "O! from what power hast thou this powerful might"
+  icon: web_stories
+  sequence: 150
+  url: 'sonnet-150'
+
+sonnet-151:
+  header: 'Sonnet 151'
+  segment: 'group-11'
+  title: "Love is too young to know what conscience is"
+  icon: web_stories
+  sequence: 151
+  url: 'sonnet-151'
+
+sonnet-152:
+  header: 'Sonnet 152'
+  segment: 'group-11'
+  title: "In loving thee thou know'st I am forsworn"
+  icon: web_stories
+  sequence: 152
+  url: 'sonnet-152'
+
+sonnet-153:
+  header: 'Sonnet 153'
+  segment: 'group-12'
+  title: "Cupid laid by his brand and fell asleep"
+  icon: web_stories
+  sequence: 153
+  url: 'sonnet-153'
+
+sonnet-154:
+  header: 'Sonnet 154'
+  segment: 'group-12'
+  title: "The little Love-god lying once asleep"
+  icon: web_stories
+  sequence: 154
+  url: 'sonnet-154'
