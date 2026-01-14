@@ -1,0 +1,35 @@
+name: Dependabot auto-merge
+on: pull_request
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  PACKAGE: askclass-course-theme
+
+jobs:
+  dependabot:
+    runs-on: ubuntu-latest
+    if: ${{ github.actor == 'dependabot[bot]' }}
+    steps:
+      - run: |
+          echo ${{ github.actor }}
+          echo ${{ env.PACKAGE }}
+          echo ${{ github.event.pull_request.html_rul }}
+
+      - name: Dependabot metadata
+        id: metadata
+        uses: dependabot/fetch-metadata@v1.1.1
+        with:
+          github-token: "${{ secrets.GITHUB_TOKEN }}"
+
+      - name: Enable auto-merge for Dependabot PRs
+        run: |
+          echo ${{ steps.metadata.outputs.update-type }}
+
+#        if: ${{contains(steps.metadata.outputs.dependency-names, env.PACKAGE) && steps.metadata.outputs.update-type == 'version-update:semver-patch'}}
+#        run: gh pr merge --auto --merge "$PR_URL"
+#        env:
+#          PR_URL: ${{github.event.pull_request.html_url}}
+#          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
