@@ -1,42 +1,31 @@
 {% assign slug = page.path | split: "." | first | split: "/" | last %}
 {% assign sonnet = site.data.sonnets[slug] %}
 
-{% if sonnet.size == 15 %}
-  {% assign q1      = sonnet | slice: 0, 5 %}
-  {% assign q2      = sonnet | slice: 5, 4 %}
-  {% assign q3      = sonnet | slice: 9, 4 %}
-  {% assign couplet = sonnet | slice: 13, 2 %}
-{% else %}
-  {% assign q1      = sonnet | slice: 0, 4 %}
-  {% assign q2      = sonnet | slice: 4, 4 %}
-  {% assign q3      = sonnet | slice: 8, 4 %}
-  {% assign couplet = sonnet | slice: 12, 2 %}
-{% endif %}
+<div class="center-align">
+  <dl class="poem" style="max-width: 450px">
+    {%- if sonnet.size == 15 %}
+      {%- assign first_line = sonnet | first %}
+      {%- assign remaining = sonnet | slice: 1, 14 %}
+      <dd>{{ first_line }}</dd>
+    {%- else %}
+      {%- assign remaining = sonnet %}
+    {%- endif %}
 
-<dl class='poem'>
-  {% for line in q1 %}
-  <dd>{{ line }}</dd>
-  {% endfor %}
-</dl>
+    {% for line in remaining %}
+      {%- assign mod = forloop.index | modulo: 4 %}
+      {%- assign style = '' %}
 
-<dl class='poem'>
-  {% for line in q2 %}
-  <dd>{{ line }}</dd>
-  {% endfor %}
-</dl>
+      {%- if mod == 0 %}
+        {%- assign style = 'style="margin-bottom: 1em"' %}
+      {%- endif %}
 
-<dl class='poem'>
-  {% for line in q3 %}
-  <dd>{{ line }}</dd>
-  {% endfor %}
-</dl>
+      {%- if forloop.index >= 13 %}
+        {%- assign style = 'style="margin-left: 2em"' %}
+      {%- endif %}
 
-{% if couplet %}
-<dl class='poem' style='margin-left: 1em'>
-  {% for line in couplet %}
-  <dd>{{ line }}</dd>
-  {% endfor %}
-</dl>
-{% endif %}
+      <dd {{ style }}>{{ line }}</dd>
+    {% endfor %}
+  </dl>
+</div>
 
 <hr class='logo' />

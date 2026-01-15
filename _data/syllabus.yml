@@ -1,6 +1,7 @@
 group-00:
   title: 'Introduction'
-  segment: ['favorites', ❤️]
+  segment: ['favorites', 0, favorite]
+  theme: c12
   items:
     - intro
     - sonnet-18
@@ -42,7 +43,7 @@ group-01:
 group-02:
   title: 'Immortality'
   segment: ['set', 2]
-  theme: c2
+  theme: c3
   items:
     - sonnet-18
     - sonnet-19
@@ -58,7 +59,7 @@ group-02:
 group-03:
   title: 'Absence'
   segment: ['set', 3]
-  theme: c3
+  theme: c5
   items:
     - sonnet-28
     - sonnet-29
@@ -76,7 +77,7 @@ group-03:
 group-04:
   title: 'Betrayal'
   segment: ['set', 4]
-  theme: c4
+  theme: c7
   items:
     - sonnet-40
     - sonnet-41
@@ -97,7 +98,7 @@ group-04:
 group-05:
   title: 'Time'
   segment: ['set', 5]
-  theme: c5
+  theme: c9
   items:
     - sonnet-55
     - sonnet-56
@@ -118,7 +119,7 @@ group-05:
 group-06:
   title: 'Rivalry'
   segment: ['set', 6]
-  theme: c6
+  theme: c11
   items:
     - sonnet-70
     - sonnet-71
@@ -142,7 +143,7 @@ group-06:
 group-07:
   title: 'Forgiveness'
   segment: ['set', 7]
-  theme: c7
+  theme: c2
   items:
     - sonnet-88
     - sonnet-89
@@ -160,7 +161,7 @@ group-07:
 group-08:
   title: 'Reconciliation'
   segment: ['set', 8]
-  theme: c8
+  theme: c4
   items:
     - sonnet-100
     - sonnet-101
@@ -179,7 +180,7 @@ group-08:
 group-09:
   title: 'Farewell'
   segment: ['set', 9]
-  theme: c9
+  theme: c6
   items:
     - sonnet-113
     - sonnet-114
@@ -199,7 +200,7 @@ group-09:
 group-10:
   title: 'Seduction'
   segment: ['set', 10]
-  theme: c10
+  theme: c8
   items:
     - sonnet-127
     - sonnet-128
@@ -215,7 +216,7 @@ group-10:
 group-11:
   title: 'Torment'
   segment: ['set', 11]
-  theme: c1
+  theme: c10
   items:
     - sonnet-137
     - sonnet-138
@@ -237,7 +238,7 @@ group-11:
 group-12:
   title: 'Cupid'
   segment: ['set', 12]
-  theme: c2
+  theme: c11
   items:
     - sonnet-153
     - sonnet-154
