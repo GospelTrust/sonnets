@@ -35,6 +35,9 @@ acc:
     - icon: "lightbulb"
       href: "/session/intro"
       text: "Introduction"
+    - icon: "skull"
+      href: "/session/hamlet-a3-s1"
+      text: "Hamlet Soliloquy"
 
 collections_dir: content
 collections:
