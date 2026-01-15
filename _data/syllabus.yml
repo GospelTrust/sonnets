@@ -238,7 +238,7 @@ group-11:
 group-12:
   title: 'Cupid'
   segment: ['set', 12]
-  theme: c11
+  theme: c13
   items:
     - sonnet-153
     - sonnet-154
