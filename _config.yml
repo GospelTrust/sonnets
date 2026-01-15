@@ -1,6 +1,6 @@
 theme: askclass-course-theme
 
-title: "Shakespeare Sonnets"
+title: "Shakespeare's Sonnets"
 description: >
   Dive into Shakespeare's 154 timeless sonnets with our dedicated study and memorization platform.
   Explore line-by-line analyses, thematic groupings,
@@ -9,21 +9,13 @@ description: >
   Perfect for students, educators, actors, and poetry lovers seeking to master the Bard's profound verse.
 
 acc:
-  date_format: "%b %d, %y"
   short_name: "Sonnets"
   color:
-    theme: "#ffd700"
-    bg: "#222"
+    theme: "#28170b"
+    bg: "#f4e3d7"
   url: "https://sonnets.nissi.app"
   categories:
     - education
-  logo:
-    image: "logo.svg"
-    size: 70
-    height: 70
-    alt_image: "logo.svg"
-    alt_size: 200
-    sizes: [ 48, 96, 144, 192, 300, 512, 800, 1024 ]
   shortcuts:
     - name: Introduction
       url: https://sonnets.nissi.app/session/intro
@@ -43,13 +35,6 @@ acc:
     - icon: "lightbulb"
       href: "/session/intro"
       text: "Introduction"
-  font_families:
-    - Teko
-    - Open+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,700
-    - Josefin+Sans
-    - Share+Tech+Mono
-    - Lexend
-    - Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200
 
 collections_dir: content
 collections:
@@ -71,7 +56,3 @@ defaults:
       type: "segment"
     values:
       layout: "segment"
-
-exclude:
-  - CNAME
-  - material
