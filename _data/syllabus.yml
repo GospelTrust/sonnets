@@ -5,21 +5,19 @@ group-00:
   items:
     - intro
     - sonnet-18
-    - sonnet-29
-    - sonnet-30
-    - sonnet-55
-    - sonnet-60
-    - sonnet-64
-    - sonnet-65
-    - sonnet-71
-    - sonnet-73
     - sonnet-116
     - sonnet-130
+    - sonnet-29
+    - sonnet-73
+    - sonnet-55
+    - sonnet-65
+    - sonnet-71
+    - sonnet-64
     - sonnet-138
 
 group-01:
-  title: 'Procreation'
-  segment: ['set', 1]
+  title: '1-17'
+  segment: ['Procreation', 1]
   theme: c1
   items:
     - sonnet-1
@@ -41,8 +39,8 @@ group-01:
     - sonnet-17
 
 group-02:
-  title: 'Immortality'
-  segment: ['set', 2]
+  title: '18-27'
+  segment: ['Immortality', 2]
   theme: c3
   items:
     - sonnet-18
@@ -57,8 +55,8 @@ group-02:
     - sonnet-27
 
 group-03:
-  title: 'Absence'
-  segment: ['set', 3]
+  title: '28-39'
+  segment: ['Absence', 3]
   theme: c5
   items:
     - sonnet-28
@@ -75,8 +73,8 @@ group-03:
     - sonnet-39
 
 group-04:
-  title: 'Betrayal'
-  segment: ['set', 4]
+  title: '40-54'
+  segment: ['Betrayal', 4]
   theme: c7
   items:
     - sonnet-40
@@ -96,8 +94,8 @@ group-04:
     - sonnet-54
 
 group-05:
-  title: 'Time'
-  segment: ['set', 5]
+  title: '55-69'
+  segment: ['Time', 5]
   theme: c9
   items:
     - sonnet-55
@@ -117,8 +115,8 @@ group-05:
     - sonnet-69
 
 group-06:
-  title: 'Rivalry'
-  segment: ['set', 6]
+  title: '70-87'
+  segment: ['Rivalry', 6]
   theme: c11
   items:
     - sonnet-70
@@ -141,8 +139,8 @@ group-06:
     - sonnet-87
 
 group-07:
-  title: 'Forgiveness'
-  segment: ['set', 7]
+  title: '88-99'
+  segment: ['Forgiveness', 7]
   theme: c2
   items:
     - sonnet-88
@@ -159,8 +157,8 @@ group-07:
     - sonnet-99
 
 group-08:
-  title: 'Reconciliation'
-  segment: ['set', 8]
+  title: '100-112'
+  segment: ['Reconciliation', 8]
   theme: c4
   items:
     - sonnet-100
@@ -178,8 +176,8 @@ group-08:
     - sonnet-112
 
 group-09:
-  title: 'Farewell'
-  segment: ['set', 9]
+  title: '113-126'
+  segment: ['Farewell', 9]
   theme: c6
   items:
     - sonnet-113
@@ -198,8 +196,8 @@ group-09:
     - sonnet-126
 
 group-10:
-  title: 'Seduction'
-  segment: ['set', 10]
+  title: '127-136'
+  segment: ['Seduction', 10]
   theme: c8
   items:
     - sonnet-127
@@ -214,8 +212,8 @@ group-10:
     - sonnet-136
 
 group-11:
-  title: 'Torment'
-  segment: ['set', 11]
+  title: '137-152'
+  segment: ['Torment', 11]
   theme: c10
   items:
     - sonnet-137
@@ -236,8 +234,8 @@ group-11:
     - sonnet-152
 
 group-12:
-  title: 'Cupid'
-  segment: ['set', 12]
+  title: '153-154'
+  segment: ['Cupid', 12]
   theme: c13
   items:
     - sonnet-153

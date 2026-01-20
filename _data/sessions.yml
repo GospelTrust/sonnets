@@ -1032,7 +1032,7 @@ sonnet-128:
 
 sonnet-129:
   header: 'Sonnet 129'
-  segment: 'group-11'
+  segment: 'group-10'
   title: "The expense of spirit in a waste of shame"
   icon: web_stories
   sequence: 129
@@ -1040,7 +1040,7 @@ sonnet-129:
 
 sonnet-130:
   header: 'Sonnet 130'
-  segment: 'group-11'
+  segment: 'group-10'
   title: "My mistress' eyes are nothing like the sun"
   icon: favorite
   sequence: 130
@@ -1048,7 +1048,7 @@ sonnet-130:
 
 sonnet-131:
   header: 'Sonnet 131'
-  segment: 'group-11'
+  segment: 'group-10'
   title: "Thou art as tyrannous, so as thou art"
   icon: web_stories
   sequence: 131
@@ -1056,7 +1056,7 @@ sonnet-131:
 
 sonnet-132:
   header: 'Sonnet 132'
-  segment: 'group-11'
+  segment: 'group-10'
   title: "Thine eyes I love, and they, as pitying me"
   icon: web_stories
   sequence: 132
@@ -1064,7 +1064,7 @@ sonnet-132:
 
 sonnet-133:
   header: 'Sonnet 133'
-  segment: 'group-11'
+  segment: 'group-10'
   title: "Beshrew that heart that makes my heart to groan"
   icon: web_stories
   sequence: 133
@@ -1072,7 +1072,7 @@ sonnet-133:
 
 sonnet-134:
   header: 'Sonnet 134'
-  segment: 'group-11'
+  segment: 'group-10'
   title: "So now I have confessed that he is thine"
   icon: web_stories
   sequence: 134
@@ -1080,7 +1080,7 @@ sonnet-134:
 
 sonnet-135:
   header: 'Sonnet 135'
-  segment: 'group-11'
+  segment: 'group-10'
   title: "Whoever hath her wish, thou hast thy Will"
   icon: web_stories
   sequence: 135
@@ -1088,7 +1088,7 @@ sonnet-135:
 
 sonnet-136:
   header: 'Sonnet 136'
-  segment: 'group-11'
+  segment: 'group-10'
   title: "If thy soul check thee that I come so near"
   icon: web_stories
   sequence: 136
