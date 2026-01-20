@@ -8,11 +8,13 @@ const OFFLINE_URL = "/offline.html";
 const PRECACHE_ASSETS = [
   "/",
   "/index.html",
-  "/styles.css",
-  "/app.js",
+  "/404.html",
   OFFLINE_URL,
-  "/favicon.ico",
-  "/manifest.json"
+  "/assets/favicon.ico",
+  "/assets/site.webmanifest",
+  "/assets/css/session.css",
+  "/assets/css/segment.css",
+  "/assets/css/dialog.css"
 ];
 
 // Install event - cache essential assets
