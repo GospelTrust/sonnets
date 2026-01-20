@@ -44,7 +44,7 @@ poem:
 </center>
 
 <div class="center-align">
-  <dl class="poem" style="max-width: 440px">
+  <dl class="poem special" style="max-width: 470px; text-align: left; font-size: 1.1em">
     {%- for line in page.poem %}
       <dd>{{ line }}</dd>
     {%- endfor %}
